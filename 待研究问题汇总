@@ -1,0 +1,45 @@
+ai深度学习
+数据图像处理算法
+opencv学习
+水印实现，代码添加
+window opencv，ubutu opencv
+如何将opencv编译成so库
+如何实现硬件加速图像处理
+要求一个网页
+
+一、语言类
+shell脚本
+python，java
+链表的实现
+线程
+管道
+dlsym函数理解
+
+二、工具类
+back trace
+coredump  gdb
+android gdb工具
+新版gerrit
+cscope grep ctags
+vim插件vundle
+kernel内存管理 lowermemorykiller
+cmake makefile
+"https://github.com/opencv/opencv/wiki/Building_OpenCV4Android_from_trunk 
+https://github.com/opencv/opencv/wiki/Coding_Style_Guide"
+
+三、功能确认类
+845 log 打印方式  ok
+camera log打印方法
+8996 可以dump preview 不能dump snapshot、raw图片
+makefile,android.mk
+高通frame打印   ok
+高通preview图片打印
+smem使用分析内存
+
+四、模块学习类
+hidl学习
+pipeline机制
+metadata和output
+android N->O->P->Q
+pdaf功能 深度分析
+binner size
