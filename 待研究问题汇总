@@ -43,3 +43,13 @@ metadata和output
 android N->O->P->Q
 pdaf功能 深度分析
 binner size
+
+
+1、ZSL模式和普通拍照模式有哪些参数配置差异
+2、ZSL拍照会将数据回调给framework吗？
+3、camera框架，framework框架，HAL框架，kernel框架
+4、kernel中camera的buf是怎么获取数据的
+5、中断的响应
+6、preview和video的差异
+7、mm-camera-interface/HAL 是否有算法，
+8、3a文件的路径
